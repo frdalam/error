@@ -1,0 +1,1213 @@
+C:\Windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\PMax>C:\Users\falam\Downloads\nuget.exe restore "C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\RxNet.sln" 
+MSBuild auto-detection: using msbuild version '16.10.1.27004' from 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin'.
+Restoring NuGet package Antlr.3.4.1.9004.
+Restoring NuGet package Autofac.4.9.4.
+Restoring NuGet package Autofac.Extras.CommonServiceLocator.4.0.0.
+Restoring NuGet package Antlr3.Runtime.3.5.1.
+  GET https://api.nuget.org/v3-flatcontainer/antlr/3.4.1.9004/antlr.3.4.1.9004.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/autofac/4.9.4/autofac.4.9.4.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/autofac.extras.commonservicelocator/4.0.0/autofac.extras.commonservicelocator.4.0.0.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/antlr3.runtime/3.5.1/antlr3.runtime.3.5.1.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/antlr/3.4.1.9004/antlr.3.4.1.9004.nupkg 21ms
+  OK https://api.nuget.org/v3-flatcontainer/antlr3.runtime/3.5.1/antlr3.runtime.3.5.1.nupkg 52ms
+  OK https://api.nuget.org/v3-flatcontainer/autofac.extras.commonservicelocator/4.0.0/autofac.extras.commonservicelocator.4.0.0.nupkg 58ms
+  OK https://api.nuget.org/v3-flatcontainer/autofac/4.9.4/autofac.4.9.4.nupkg 71ms
+Installed Autofac.Extras.CommonServiceLocator 4.0.0 from https://api.nuget.org/v3/index.json with content hash KQg8yxmYba5z0J9M4d+i5F2ELWxiB1hm1N9LjW0P7mCgFIB3lmHTcyGtYfexiFatE0pTw5Naq3CHY7bgQcV5LQ==.
+Installed Antlr 3.4.1.9004 from https://api.nuget.org/v3/index.json with content hash c1S+HBE+KYA5EBxtn25LEK02hHPH/tDQ6RviUTTCJpZIPoputtn8ArsQJy9lVJWZOnw37ufByO2Fmf1M8wpr8Q==.
+Adding package 'Antlr.3.4.1.9004' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Adding package 'Autofac.Extras.CommonServiceLocator.4.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Antlr.3.4.1.9004' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Autofac.Extras.CommonServiceLocator.4.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Autofac.Mvc5.4.0.2.
+Restoring NuGet package Autofac.Mvc5.Owin.4.0.1.
+  GET https://api.nuget.org/v3-flatcontainer/autofac.mvc5/4.0.2/autofac.mvc5.4.0.2.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/autofac.mvc5.owin/4.0.1/autofac.mvc5.owin.4.0.1.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/autofac.mvc5.owin/4.0.1/autofac.mvc5.owin.4.0.1.nupkg 15ms
+  OK https://api.nuget.org/v3-flatcontainer/autofac.mvc5/4.0.2/autofac.mvc5.4.0.2.nupkg 16ms
+Installed Antlr3.Runtime 3.5.1 from https://api.nuget.org/v3/index.json with content hash ZwCEpLCLZXkjzf1lYEixp9hgVlYYk33ACHn6xjFyVhGRi2BpoYQez0qtatbetdylASWYTG+cGz0CGR4z66JM4w==.
+Adding package 'Antlr3.Runtime.3.5.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Antlr3.Runtime.3.5.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Autofac.Owin.4.2.0.
+  GET https://api.nuget.org/v3-flatcontainer/autofac.owin/4.2.0/autofac.owin.4.2.0.nupkg
+Installed Autofac.Mvc5.Owin 4.0.1 from https://api.nuget.org/v3/index.json with content hash uUYxwGPnXlG3tPPgXzTkmsX+UPOz3RxQ44iq0WDGWUxZDSzHUJAKeX75Bj4n7/norQj7//yGXYA5Xk89is4Ufg==.
+Adding package 'Autofac.Mvc5.Owin.4.0.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed Autofac.Mvc5 4.0.2 from https://api.nuget.org/v3/index.json with content hash gok9ZMn7ZiZTOtJ7R67mFbS0deDyU5c45CFILIG3bxA3KlKC0jb7E2c0KvYMDS6H1XW2yvUj1XE1z1v8E8v8ww==.
+Adding package 'Autofac.Mvc5.4.0.2' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+  OK https://api.nuget.org/v3-flatcontainer/autofac.owin/4.2.0/autofac.owin.4.2.0.nupkg 18ms
+Installed Autofac 4.9.4 from https://api.nuget.org/v3/index.json with content hash dYiDG4yoV7GDCoOc66d1sqMmg2gwDyomHKgATuMfhFzYxVpWEltToHVHXI3I9vOEvIXE55S4OZPY0ldiZmZtpA==.
+Adding package 'Autofac.4.9.4' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Autofac.Mvc5.Owin.4.0.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Autofac.WebApi2.4.3.1.
+  GET https://api.nuget.org/v3-flatcontainer/autofac.webapi2/4.3.1/autofac.webapi2.4.3.1.nupkg
+Added package 'Autofac.Mvc5.4.0.2' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Autofac.WebApi2.Owin.4.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/autofac.webapi2.owin/4.0.0/autofac.webapi2.owin.4.0.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/autofac.webapi2/4.3.1/autofac.webapi2.4.3.1.nupkg 16ms
+  OK https://api.nuget.org/v3-flatcontainer/autofac.webapi2.owin/4.0.0/autofac.webapi2.owin.4.0.0.nupkg 18ms
+Installed Autofac.Owin 4.2.0 from https://api.nuget.org/v3/index.json with content hash HQfCp06vdBz7Q1VFI0riUcW9knS3JCBdxEaDvgQ9jRsvjgQNlZoHHn8SRMwm17NgWJVMrmtrhIR7PDnCqc/wzA==.
+Adding package 'Autofac.Owin.4.2.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Autofac.4.9.4' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package bootstrap.3.3.7.
+  GET https://api.nuget.org/v3-flatcontainer/bootstrap/3.3.7/bootstrap.3.3.7.nupkg
+Added package 'Autofac.Owin.4.2.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package BouncyCastle.1.8.2.
+  GET https://api.nuget.org/v3-flatcontainer/bouncycastle/1.8.2/bouncycastle.1.8.2.nupkg
+Installed Autofac.WebApi2.Owin 4.0.0 from https://api.nuget.org/v3/index.json with content hash wPBDNWCEexQNyNhIuISrZiZHDOZ+d2hhihvoZNWxv4lD6bhAtOxfBhKtRvYZmBml93KyloKWiIkAJ/ApaxJffQ==.
+Adding package 'Autofac.WebApi2.Owin.4.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+  OK https://api.nuget.org/v3-flatcontainer/bootstrap/3.3.7/bootstrap.3.3.7.nupkg 16ms
+  OK https://api.nuget.org/v3-flatcontainer/bouncycastle/1.8.2/bouncycastle.1.8.2.nupkg 18ms
+Added package 'Autofac.WebApi2.Owin.4.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Castle.Components.Validator.2.5.0.
+  GET https://api.nuget.org/v3-flatcontainer/castle.components.validator/2.5.0/castle.components.validator.2.5.0.nupkg
+Installed Autofac.WebApi2 4.3.1 from https://api.nuget.org/v3/index.json with content hash nuIOyC0cKLB5iJiHFvtT+nTg2KRcDsdXNGIoHY02a6X77IwkjuXzgr2mbPtuLfwoTxF2hCk7NKvuPAMceVf4QQ==.
+Adding package 'Autofac.WebApi2.4.3.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+  OK https://api.nuget.org/v3-flatcontainer/castle.components.validator/2.5.0/castle.components.validator.2.5.0.nupkg 22ms
+Added package 'Autofac.WebApi2.4.3.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Castle.Core.4.4.0.
+  GET https://api.nuget.org/v3-flatcontainer/castle.core/4.4.0/castle.core.4.4.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/castle.core/4.4.0/castle.core.4.4.0.nupkg 15ms
+Installed BouncyCastle 1.8.2 from https://api.nuget.org/v3/index.json with content hash 1VNcrEowB9ucPhsZRENMx4GFbzJSvQ8P0XF+ZEEMfam8loKVRBPVZVjwVHx95lEs2NF6QSeED8WIQhoQ02q9PQ==.
+Adding package 'BouncyCastle.1.8.2' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed bootstrap 3.3.7 from https://api.nuget.org/v3/index.json with content hash 3YTWhPNh6UcnUvzw9u6A2/hy2w0h4lznxPbX6FY47lFia3+Ib4zBixTpW6YieYA/b2fLXbkjoD59OjcVF3cJXw==.
+Adding package 'bootstrap.3.3.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'BouncyCastle.1.8.2' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Common.Logging.2.1.2.
+  GET https://api.nuget.org/v3-flatcontainer/common.logging/2.1.2/common.logging.2.1.2.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/common.logging/2.1.2/common.logging.2.1.2.nupkg 16ms
+Added package 'bootstrap.3.3.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package CommonServiceLocator.1.3.0.
+  GET https://api.nuget.org/v3-flatcontainer/commonservicelocator/1.3.0/commonservicelocator.1.3.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/commonservicelocator/1.3.0/commonservicelocator.1.3.0.nupkg 14ms
+Installed Castle.Core 4.4.0 from https://api.nuget.org/v3/index.json with content hash b5rRL5zeaau1y/5hIbI+6mGw3cwun16YjkHZnV9RRT5UyUIFsgLmNXJ0YnIN9p8Hw7K7AbG1q1UclQVU3DinAQ==.
+Adding package 'Castle.Core.4.4.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed CommonServiceLocator 1.3 from https://api.nuget.org/v3/index.json with content hash fbjO0SNwbOFPdwVfyqv+B7gIJ2CVBOFPKqn1mDDECK7KER8jFaOdcvroFYoAHa0ktPbxi5s+15qOLnA96f8GSA==.
+Adding package 'CommonServiceLocator.1.3.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed Common.Logging 2.1.2 from https://api.nuget.org/v3/index.json with content hash aqqmzNbkqmGBkKL84h2gv5BKBW2tj8E11KXYlAUiiNxGXFWG4fxvS7ashi3knx3rsOph8x9HaRmVqLyjv1PWnQ==.
+Adding package 'Common.Logging.2.1.2' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'CommonServiceLocator.1.3.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package CronExpressionDescriptor.2.13.0.
+  GET https://api.nuget.org/v3-flatcontainer/cronexpressiondescriptor/2.13.0/cronexpressiondescriptor.2.13.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/cronexpressiondescriptor/2.13.0/cronexpressiondescriptor.2.13.0.nupkg 15ms
+Added package 'Common.Logging.2.1.2' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package DotLiquid.2.0.298.
+  GET https://api.nuget.org/v3-flatcontainer/dotliquid/2.0.298/dotliquid.2.0.298.nupkg
+Added package 'Castle.Core.4.4.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package HtmlAgilityPack.1.8.8.
+  GET https://api.nuget.org/v3-flatcontainer/htmlagilitypack/1.8.8/htmlagilitypack.1.8.8.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/dotliquid/2.0.298/dotliquid.2.0.298.nupkg 15ms
+  OK https://api.nuget.org/v3-flatcontainer/htmlagilitypack/1.8.8/htmlagilitypack.1.8.8.nupkg 18ms
+Installed Castle.Components.Validator 2.5.0 from https://api.nuget.org/v3/index.json with content hash TsthijbEjkTks7qY/l/ZIwWmvzfbLMdpzwbC+K8hJmtn1TC2gnr6YUuEJkPN7XuHlUmmrguUOCVl1jf1fA1Btw==.
+Adding package 'Castle.Components.Validator.2.5.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed DotLiquid 2.0.298 from https://api.nuget.org/v3/index.json with content hash PPHCbm5N5dkYIWX5gcSXYq5iZlBtjpuRCfZgArgH59ZYliiCRg/N50tQg8Av+dA0nIpuHDvsyBatIdr2rdylaQ==.
+Adding package 'DotLiquid.2.0.298' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Castle.Components.Validator.2.5.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Iesi.Collections.4.0.4.
+  GET https://api.nuget.org/v3-flatcontainer/iesi.collections/4.0.4/iesi.collections.4.0.4.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/iesi.collections/4.0.4/iesi.collections.4.0.4.nupkg 19ms
+Added package 'DotLiquid.2.0.298' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package jQuery.1.12.4.
+  GET https://api.nuget.org/v3-flatcontainer/jquery/1.12.4/jquery.1.12.4.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/jquery/1.12.4/jquery.1.12.4.nupkg 14ms
+Installed Iesi.Collections 4.0.4 from https://api.nuget.org/v3/index.json with content hash jlebSjv2a7amYfKXEUsPDSf2Yi9r0/FkvvT6Dy7ehl7z8du+dTGqKDu+fYbnE+WuIz/v3prYm1jpBljMrY1p+Q==.
+Adding package 'Iesi.Collections.4.0.4' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Iesi.Collections.4.0.4' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package jquery.validate.unobtrusive.bootstrap.1.2.3.
+  GET https://api.nuget.org/v3-flatcontainer/jquery.validate.unobtrusive.bootstrap/1.2.3/jquery.validate.unobtrusive.bootstrap.1.2.3.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/jquery.validate.unobtrusive.bootstrap/1.2.3/jquery.validate.unobtrusive.bootstrap.1.2.3.nupkg 17ms
+Installed jQuery 1.12.4 from https://api.nuget.org/v3/index.json with content hash pIYtWlFI5PGlJVB8jm9H96pAQ27jQhA9sCxMeGweeC3ByQRaB8BwkIuGdTt4go3IEKTmmfRC2y5k0FLFizWDQg==.
+Adding package 'jQuery.1.12.4' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'jQuery.1.12.4' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package jQuery.Validation.1.17.0.
+  GET https://api.nuget.org/v3-flatcontainer/jquery.validation/1.17.0/jquery.validation.1.17.0.nupkg
+Installed jquery.validate.unobtrusive.bootstrap 1.2.3 from https://api.nuget.org/v3/index.json with content hash NKVo8rTjevL7HAVPu0fEG1RfOiXHYSPjbiF82YXKz0iiJCndZm1oDweUKRpVz29pPulc3zBuAhNQiLGqX9UF4Q==.
+Adding package 'jquery.validate.unobtrusive.bootstrap.1.2.3' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+  OK https://api.nuget.org/v3-flatcontainer/jquery.validation/1.17.0/jquery.validation.1.17.0.nupkg 12ms
+Added package 'jquery.validate.unobtrusive.bootstrap.1.2.3' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package libphonenumber-csharp.8.10.21.
+  GET https://api.nuget.org/v3-flatcontainer/libphonenumber-csharp/8.10.21/libphonenumber-csharp.8.10.21.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/libphonenumber-csharp/8.10.21/libphonenumber-csharp.8.10.21.nupkg 16ms
+Installed CronExpressionDescriptor 2.13.0 from https://api.nuget.org/v3/index.json with content hash PfLvR6n65Vh9RriCbxdC3SZSaCUxHDuSTaxbUlNyJSNXJLzePk3yTgJcvfbfBSXUt2ACIHLUpsZFcSaYnzMQ+A==.
+Adding package 'CronExpressionDescriptor.2.13.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed jQuery.Validation 1.17.0 from https://api.nuget.org/v3/index.json with content hash pzCKw7J9XugWLBCQCPa2qBVS57vbe3OkuEGgbMGWf+66Tyjanyy6qwC9/6Z+tt2PMtkQqNt+BexNDVkTnE8egw==.
+Adding package 'jQuery.Validation.1.17.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'jQuery.Validation.1.17.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package MailKit.2.0.6.
+  GET https://api.nuget.org/v3-flatcontainer/mailkit/2.0.6/mailkit.2.0.6.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/mailkit/2.0.6/mailkit.2.0.6.nupkg 16ms
+Installed HtmlAgilityPack 1.8.8 from https://api.nuget.org/v3/index.json with content hash 2zrBgz/DFwLOXpBca1VREitArfd1Gq9XNfpQFzuSIuXxJTE7JAT3rlLkfwRMZh5RKLNLhgUJScAASiEc0O/x8A==.
+Adding package 'HtmlAgilityPack.1.8.8' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'CronExpressionDescriptor.2.13.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.ApplicationInsights.2.5.1.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.applicationinsights/2.5.1/microsoft.applicationinsights.2.5.1.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.applicationinsights/2.5.1/microsoft.applicationinsights.2.5.1.nupkg 13ms
+Added package 'HtmlAgilityPack.1.8.8' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.ApplicationInsights.Agent.Intercept.2.4.0.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.applicationinsights.agent.intercept/2.4.0/microsoft.applicationinsights.agent.intercept.2.4.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.applicationinsights.agent.intercept/2.4.0/microsoft.applicationinsights.agent.intercept.2.4.0.nupkg 15ms
+Installed Microsoft.ApplicationInsights 2.5.1 from https://api.nuget.org/v3/index.json with content hash k9PtCkxAf5LIJo7i3VCt0R+EtvrZ+b/JPlN0GVtyOuNXZmqdCpmKxoQnOOSwReWDQNkvfF6HWvk75VCKXzf31g==.
+Adding package 'Microsoft.ApplicationInsights.2.5.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.ApplicationInsights.2.5.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.ApplicationInsights.DependencyCollector.2.5.1.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.applicationinsights.dependencycollector/2.5.1/microsoft.applicationinsights.dependencycollector.2.5.1.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.applicationinsights.dependencycollector/2.5.1/microsoft.applicationinsights.dependencycollector.2.5.1.nupkg 12ms
+Installed Microsoft.ApplicationInsights.DependencyCollector 2.5.1 from https://api.nuget.org/v3/index.json with content hash Z4i15edsTHhVbeqsnvfYVhwvq9b2+iUY76UTIMbS5oxJxm7Ar1TPqWP+Gmfrntl9ZcBz7uqOA+p3En0UlTU8KA==.
+Adding package 'Microsoft.ApplicationInsights.DependencyCollector.2.5.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed Microsoft.ApplicationInsights.Agent.Intercept 2.4.0 from https://api.nuget.org/v3/index.json with content hash WuK9x24Yt3a3wUVsgFTp0Ef3q2ne0dPSflLRysRnpao70R1+oUil6wW/6tK2PeiwL2giiH+Enli1S+yXmSStqQ==.
+Adding package 'Microsoft.ApplicationInsights.Agent.Intercept.2.4.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.ApplicationInsights.Agent.Intercept.2.4.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.ApplicationInsights.PerfCounterCollector.2.5.1.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.applicationinsights.perfcountercollector/2.5.1/microsoft.applicationinsights.perfcountercollector.2.5.1.nupkg
+Added package 'Microsoft.ApplicationInsights.DependencyCollector.2.5.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.ApplicationInsights.Web.2.5.1.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.applicationinsights.web/2.5.1/microsoft.applicationinsights.web.2.5.1.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.applicationinsights.perfcountercollector/2.5.1/microsoft.applicationinsights.perfcountercollector.2.5.1.nupkg 16ms
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.applicationinsights.web/2.5.1/microsoft.applicationinsights.web.2.5.1.nupkg 15ms
+Installed MailKit 2.0.6 from https://api.nuget.org/v3/index.json with content hash xO7c8jHlbN15CoEKvIOkED6fN3W0hzUghXeh8GX8C8tSVA1mhPQnPwm7xIH7GbxkZt/IaLnvc9sVuFGxVR+yRw==.
+Adding package 'MailKit.2.0.6' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed Microsoft.ApplicationInsights.PerfCounterCollector 2.5.1 from https://api.nuget.org/v3/index.json with content hash aHFeyc35vgbpQ9+Ui8PZTgT96VRbsYJD3BNcP11deGbJ/+zuKN/xqBX99f3Ato+HxtnAyUm0ZSjxMDra7kg4pQ==.
+Adding package 'Microsoft.ApplicationInsights.PerfCounterCollector.2.5.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed Microsoft.ApplicationInsights.Web 2.5.1 from https://api.nuget.org/v3/index.json with content hash FYbRUMBu3EZnBwjskJlXBpxJJeHXR+tGX3faKXh5x3Ahily4pmAxqbuAbhzgmCB/B/6hVwWOV0yYhAI0S6ItXg==.
+Adding package 'Microsoft.ApplicationInsights.Web.2.5.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'MailKit.2.0.6' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.ApplicationInsights.PerfCounterCollector.2.5.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.ApplicationInsights.WindowsServer.2.5.1.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.applicationinsights.windowsserver/2.5.1/microsoft.applicationinsights.windowsserver.2.5.1.nupkg
+Restoring NuGet package Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.5.1.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.applicationinsights.windowsserver.telemetrychannel/2.5.1/microsoft.applicationinsights.windowsserver.telemetrychannel.2.5.1.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.applicationinsights.windowsserver/2.5.1/microsoft.applicationinsights.windowsserver.2.5.1.nupkg 14ms
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.applicationinsights.windowsserver.telemetrychannel/2.5.1/microsoft.applicationinsights.windowsserver.telemetrychannel.2.5.1.nupkg 15ms
+Added package 'Microsoft.ApplicationInsights.Web.2.5.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.AspNet.Mvc.5.2.7.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.mvc/5.2.7/microsoft.aspnet.mvc.5.2.7.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.mvc/5.2.7/microsoft.aspnet.mvc.5.2.7.nupkg 14ms
+Installed Microsoft.ApplicationInsights.WindowsServer 2.5.1 from https://api.nuget.org/v3/index.json with content hash Dm1NETsfYuhbsrV7wPADqgrnwsx2a4eQBVGOM85XUDD/pmNRTxAxIIJUH+4lh6Zfk/4XFyydFpD0T/r7gmRE8Q==.
+Adding package 'Microsoft.ApplicationInsights.WindowsServer.2.5.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel 2.5.1 from https://api.nuget.org/v3/index.json with content hash JCC+UltE34WYGJeUfPvMM3muB3eR00gP+7ZURTutymnMA4aSZYHvf+jf5xnBK1Kwlw9FOoYl/240XyZc/kdBfQ==.
+Adding package 'Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.5.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.ApplicationInsights.WindowsServer.2.5.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.AspNet.Razor.3.2.7.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.razor/3.2.7/microsoft.aspnet.razor.3.2.7.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.razor/3.2.7/microsoft.aspnet.razor.3.2.7.nupkg 15ms
+Added package 'Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.5.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.AspNet.SignalR.2.4.1.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.signalr/2.4.1/microsoft.aspnet.signalr.2.4.1.nupkg
+Installed Microsoft.AspNet.Mvc 5.2.7 from https://api.nuget.org/v3/index.json with content hash m3hUsn48k6Qb5El9A8naTwGTLCdSQKGSpGweqIfiVKltGJzAJJxuXvhhaQQtLCGg3i5V88iGjz0JG72/tlFKlg==.
+Adding package 'Microsoft.AspNet.Mvc.5.2.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.signalr/2.4.1/microsoft.aspnet.signalr.2.4.1.nupkg 17ms
+Installed Microsoft.AspNet.Razor 3.2.7 from https://api.nuget.org/v3/index.json with content hash BpWEZ+Ys7g9VAkbAfpG5jr5A1fKcmadCCXv3fYfps5YfTVABJIGV4uc9yvmXKxsNsjL+BzDld2gs+xtgT2gg1g==.
+Adding package 'Microsoft.AspNet.Razor.3.2.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.AspNet.Mvc.5.2.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.AspNet.SignalR.Core.2.4.1.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.signalr.core/2.4.1/microsoft.aspnet.signalr.core.2.4.1.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.signalr.core/2.4.1/microsoft.aspnet.signalr.core.2.4.1.nupkg 13ms
+Installed Microsoft.AspNet.SignalR 2.4.1 from https://api.nuget.org/v3/index.json with content hash aYbLVE5toZwv/qaQ0BiIZRRwN/00WKYzGjaYUWIQuI91xZ50nnAymWD1sxCZFN9XXDRq8bevM5ET9GmAeOI/Nw==.
+Adding package 'Microsoft.AspNet.SignalR.2.4.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.AspNet.SignalR.2.4.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.AspNet.SignalR.JS.2.4.1.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.signalr.js/2.4.1/microsoft.aspnet.signalr.js.2.4.1.nupkg
+Added package 'Microsoft.AspNet.Razor.3.2.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.signalr.js/2.4.1/microsoft.aspnet.signalr.js.2.4.1.nupkg 15ms
+Restoring NuGet package Microsoft.AspNet.SignalR.SystemWeb.2.4.1.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.signalr.systemweb/2.4.1/microsoft.aspnet.signalr.systemweb.2.4.1.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.signalr.systemweb/2.4.1/microsoft.aspnet.signalr.systemweb.2.4.1.nupkg 16ms
+Installed Microsoft.AspNet.SignalR.JS 2.4.1 from https://api.nuget.org/v3/index.json with content hash 1vOE/Ea1c7CafUKvHxoVXCo4fyZu3NNXWTdNcW25O/CbzgHFbLmDoczZL5Jui3oJEpIaPgK+d6tB2lhfC154ww==.
+Adding package 'Microsoft.AspNet.SignalR.JS.2.4.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed Microsoft.AspNet.SignalR.Core 2.4.1 from https://api.nuget.org/v3/index.json with content hash da5vF7ERsXAfFz2RzyXIV2VZACxsw+NxWwKtwXuHde7xuApvI/njJhpzq+LkoYpOYfzPZ8BbccaZ1yOaw1AQ4w==.
+Adding package 'Microsoft.AspNet.SignalR.Core.2.4.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.AspNet.SignalR.JS.2.4.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.AspNet.TelemetryCorrelation.1.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.telemetrycorrelation/1.0.0/microsoft.aspnet.telemetrycorrelation.1.0.0.nupkg
+Installed Microsoft.AspNet.SignalR.SystemWeb 2.4.1 from https://api.nuget.org/v3/index.json with content hash HSSxGyODkdTvXynTsVKDg2JofwuVZVjbI1iT2wnNBqmB4w8vCv2jo/sfhIjbP7Hz0zRKd1l59sfx2BjOzXoEtQ==.
+Adding package 'Microsoft.AspNet.SignalR.SystemWeb.2.4.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.AspNet.SignalR.Core.2.4.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.AspNet.Web.Optimization.1.1.3.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.web.optimization/1.1.3/microsoft.aspnet.web.optimization.1.1.3.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.telemetrycorrelation/1.0.0/microsoft.aspnet.telemetrycorrelation.1.0.0.nupkg 13ms
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.web.optimization/1.1.3/microsoft.aspnet.web.optimization.1.1.3.nupkg 16ms
+Added package 'Microsoft.AspNet.SignalR.SystemWeb.2.4.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.AspNet.WebApi.5.2.7.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.webapi/5.2.7/microsoft.aspnet.webapi.5.2.7.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.webapi/5.2.7/microsoft.aspnet.webapi.5.2.7.nupkg 15ms
+Installed Microsoft.AspNet.WebApi 5.2.7 from https://api.nuget.org/v3/index.json with content hash r+nQLBQ857hw8Mfb5hrlMwr0nb7BE1Fp12LsSIZ9g6NT/hTZj8CYUi2UREfywIsGPQ4EIx14oWp8QPRps/i5CA==.
+Adding package 'Microsoft.AspNet.WebApi.5.2.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed Microsoft.AspNet.Web.Optimization 1.1.3 from https://api.nuget.org/v3/index.json with content hash TWKKpTWEdB8jXp2Vl2TXNKW30GBQg6nnh0y8iZWmGY5c1XY4f649vfDslNHsCsvk9JZxc1Rkm/UGDdfq4gjWRQ==.
+Adding package 'Microsoft.AspNet.Web.Optimization.1.1.3' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.AspNet.WebApi.5.2.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.AspNet.WebApi.Client.5.2.7.
+Installed Microsoft.AspNet.TelemetryCorrelation 1.0.0 from https://api.nuget.org/v3/index.json with content hash +ubnijwVqDErgOAVMmhehzbLnHiGyNFVo8J9GhkbQal4p15aboyPZjycI4gGGZtyHF4li0X+v34TwF1Ld9m/jQ==.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.webapi.client/5.2.7/microsoft.aspnet.webapi.client.5.2.7.nupkg
+Adding package 'Microsoft.AspNet.TelemetryCorrelation.1.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.webapi.client/5.2.7/microsoft.aspnet.webapi.client.5.2.7.nupkg 14ms
+Added package 'Microsoft.AspNet.Web.Optimization.1.1.3' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.AspNet.WebApi.Core.5.2.7.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.webapi.core/5.2.7/microsoft.aspnet.webapi.core.5.2.7.nupkg
+Added package 'Microsoft.AspNet.TelemetryCorrelation.1.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.AspNet.WebApi.Owin.5.2.6.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.webapi.owin/5.2.6/microsoft.aspnet.webapi.owin.5.2.6.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.webapi.core/5.2.7/microsoft.aspnet.webapi.core.5.2.7.nupkg 16ms
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.webapi.owin/5.2.6/microsoft.aspnet.webapi.owin.5.2.6.nupkg 20ms
+Installed Microsoft.AspNet.WebApi.Owin 5.2.6 from https://api.nuget.org/v3/index.json with content hash nC94BGvcKQ8nypqBP37/K8hGZwLkYjmPN1rJ3Uvme38av54CDctAJIJyt5KaQkjoDpqVVNUkTMrTF7u1SlLLfw==.
+Adding package 'Microsoft.AspNet.WebApi.Owin.5.2.6' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed Microsoft.AspNet.WebApi.Core 5.2.7 from https://api.nuget.org/v3/index.json with content hash gM2QzApnHdy1FbKUJ/ROGJSm69P2G+HMoVd/t5Vq1O/zZ5TI4IKC9PX6nUfRt/NHgebZOIWHpB4/4K4inuy4yQ==.
+Adding package 'Microsoft.AspNet.WebApi.Core.5.2.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.AspNet.WebApi.Owin.5.2.6' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.AspNet.WebApi.WebHost.5.2.7.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.webapi.webhost/5.2.7/microsoft.aspnet.webapi.webhost.5.2.7.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.webapi.webhost/5.2.7/microsoft.aspnet.webapi.webhost.5.2.7.nupkg 15ms
+Added package 'Microsoft.AspNet.WebApi.Core.5.2.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.AspNet.WebPages.3.2.7.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.webpages/3.2.7/microsoft.aspnet.webpages.3.2.7.nupkg
+Installed Microsoft.AspNet.WebApi.Client 5.2.7 from https://api.nuget.org/v3/index.json with content hash /76fAHknzvFqbznS6Uj2sOyE9rJB3PltY+f53TH8dX9RiGhk02EhuFCWljSj5nnqKaTsmma8DFR50OGyQ4yJ1g==.
+Adding package 'Microsoft.AspNet.WebApi.Client.5.2.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.webpages/3.2.7/microsoft.aspnet.webpages.3.2.7.nupkg 19ms
+Added package 'Microsoft.AspNet.WebApi.Client.5.2.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.Bcl.AsyncInterfaces.1.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.bcl.asyncinterfaces/1.0.0/microsoft.bcl.asyncinterfaces.1.0.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.bcl.asyncinterfaces/1.0.0/microsoft.bcl.asyncinterfaces.1.0.0.nupkg 16ms
+Installed Microsoft.AspNet.WebApi.WebHost 5.2.7 from https://api.nuget.org/v3/index.json with content hash m3TyD7R/cmbfXqkfgcnE0J/UEKklcPP5gsXR96//vLx2kTnsxuOqNlulJLl+Oto4fZMvhVPFZVR+KG9cLZM/PA==.
+Adding package 'Microsoft.AspNet.WebApi.WebHost.5.2.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.AspNet.WebApi.WebHost.5.2.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.codedom.providers.dotnetcompilerplatform/2.0.1/microsoft.codedom.providers.dotnetcompilerplatform.2.0.1.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.codedom.providers.dotnetcompilerplatform/2.0.1/microsoft.codedom.providers.dotnetcompilerplatform.2.0.1.nupkg 18ms
+Installed Microsoft.AspNet.WebPages 3.2.7 from https://api.nuget.org/v3/index.json with content hash 2jwZFB7PvY+tbdz0ZP4iEo7gMrJxkCQUzoGLh6swUc6ZXl6DoKyDslmGcC/j9PFmJXCRMVIqtRorlPSMU2DuRA==.
+Adding package 'Microsoft.AspNet.WebPages.3.2.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed Microsoft.Bcl.AsyncInterfaces 1.0.0 from https://api.nuget.org/v3/index.json with content hash K63Y4hORbBcKLWH5wnKgzyn7TOfYzevIEwIedQHBIkmkEBA9SCqgvom+XTuE+fAFGvINGkhFItaZ2dvMGdT5iw==.
+Adding package 'Microsoft.Bcl.AsyncInterfaces.1.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.AspNet.WebPages.3.2.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.CSharp.4.6.0.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.csharp/4.6.0/microsoft.csharp.4.6.0.nupkg
+Installed libphonenumber-csharp 8.10.21 from https://api.nuget.org/v3/index.json with content hash s11cEH2yZLx2TWRBFVycqK8/AvNOoiWl9t3WKJbbkVqdpy7pyPADsxlHhpVfiRqu36RuGaws04U6VPcVPgkUdA==.
+Adding package 'libphonenumber-csharp.8.10.21' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.csharp/4.6.0/microsoft.csharp.4.6.0.nupkg 16ms
+Added package 'Microsoft.Bcl.AsyncInterfaces.1.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.Extensions.DependencyInjection.Abstractions.2.1.1.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection.abstractions/2.1.1/microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection.abstractions/2.1.1/microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg 15ms
+Installed Microsoft.Extensions.DependencyInjection.Abstractions 2.1.1 from https://api.nuget.org/v3/index.json with content hash MgYpU5cwZohUMKKg3sbPhvGG+eAZ/59E9UwPwlrUkyXU+PGzqwZg9yyQNjhxuAWmoNoFReoemeCku50prYSGzA==.
+Adding package 'Microsoft.Extensions.DependencyInjection.Abstractions.2.1.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.Extensions.DependencyInjection.Abstractions.2.1.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.jQuery.Unobtrusive.Ajax.3.2.6.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.jquery.unobtrusive.ajax/3.2.6/microsoft.jquery.unobtrusive.ajax.3.2.6.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.jquery.unobtrusive.ajax/3.2.6/microsoft.jquery.unobtrusive.ajax.3.2.6.nupkg 16ms
+Installed Microsoft.jQuery.Unobtrusive.Ajax 3.2.6 from https://api.nuget.org/v3/index.json with content hash udg7ZBszgqxloQ+ShJRONKQAzPnJIlUhKZB+AIvZdKh7CDc5Nms69T9X0hN5i+NqMmQE6njkzdCcEb16lPdJTw==.
+Adding package 'Microsoft.jQuery.Unobtrusive.Ajax.3.2.6' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.jQuery.Unobtrusive.Ajax.3.2.6' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.jQuery.Unobtrusive.Validation.3.2.11.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.jquery.unobtrusive.validation/3.2.11/microsoft.jquery.unobtrusive.validation.3.2.11.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.jquery.unobtrusive.validation/3.2.11/microsoft.jquery.unobtrusive.validation.3.2.11.nupkg 13ms
+Installed Microsoft.jQuery.Unobtrusive.Validation 3.2.11 from https://api.nuget.org/v3/index.json with content hash 8qGe1q3vV5Fwbpb0OSI8SxSiIBeFt9sgAvFvPwgZuuL+PZ+z0VsPB5yeqT+SrvPKpyVpN33MLhgvSW5Zf07IsQ==.
+Adding package 'Microsoft.jQuery.Unobtrusive.Validation.3.2.11' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.jQuery.Unobtrusive.Validation.3.2.11' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.Net.Compilers.2.1.0.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.net.compilers/2.1.0/microsoft.net.compilers.2.1.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.net.compilers/2.1.0/microsoft.net.compilers.2.1.0.nupkg 16ms
+Installed Microsoft.CSharp 4.6.0 from https://api.nuget.org/v3/index.json with content hash kxn3M2rnAGy5N5DgcIwcE8QTePWU/XiYcQVzn9HqTls2NKluVzVSmVWRjK7OUPWbljCXuZxHyhEz9kPRIQeXow==.
+Adding package 'Microsoft.CSharp.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.CSharp.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.Owin.4.0.1.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.owin/4.0.1/microsoft.owin.4.0.1.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.owin/4.0.1/microsoft.owin.4.0.1.nupkg 17ms
+Added package 'libphonenumber-csharp.8.10.21' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.Owin.Host.SystemWeb.4.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.owin.host.systemweb/4.0.0/microsoft.owin.host.systemweb.4.0.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.owin.host.systemweb/4.0.0/microsoft.owin.host.systemweb.4.0.0.nupkg 15ms
+Installed Microsoft.Owin 4.0.1 from https://api.nuget.org/v3/index.json with content hash J3v8nn9ABr5rm22EOyvndAP/gjP2AnhhfZuI2A7lTPO4+j27SpVv6P/Zs29+/AzSpC8qkE6GIe43vodPMF5DpA==.
+Adding package 'Microsoft.Owin.4.0.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.Owin.4.0.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.Owin.Security.4.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.owin.security/4.0.0/microsoft.owin.security.4.0.0.nupkg
+Installed Microsoft.Owin.Host.SystemWeb 4.0.0 from https://api.nuget.org/v3/index.json with content hash 7zRXPcjn1OwHrhJ71KjfU07B//xxBhK3PfYZxVKDVdv1DhDPDAMAshmW1h7sFMcT7gLvSp78uDcKSucpuccCxw==.
+Adding package 'Microsoft.Owin.Host.SystemWeb.4.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.owin.security/4.0.0/microsoft.owin.security.4.0.0.nupkg 15ms
+Added package 'Microsoft.Owin.Host.SystemWeb.4.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.Owin.Security.Cookies.4.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.owin.security.cookies/4.0.0/microsoft.owin.security.cookies.4.0.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.owin.security.cookies/4.0.0/microsoft.owin.security.cookies.4.0.0.nupkg 16ms
+Installed Microsoft.Owin.Security 4.0.0 from https://api.nuget.org/v3/index.json with content hash utXSauY1N+toBsOkrSTN/YL3XknbwVTWIQHo4V7IKTcTiay2r9to0yJK4HluqC5KDuUwkjWdVOru/6j/2JjDnw==.
+Adding package 'Microsoft.Owin.Security.4.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.Owin.Security.4.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.Owin.Security.OAuth.4.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.owin.security.oauth/4.0.0/microsoft.owin.security.oauth.4.0.0.nupkg
+Installed Microsoft.Owin.Security.Cookies 4.0.0 from https://api.nuget.org/v3/index.json with content hash HsSJra7A5S36GHrf5W9gflkULNyTTS3qc+kJYE22DJQ1Ap1M0k0vMwZUzea7J3SEcl7+KeET7dX0qzZn43rt4w==.
+Adding package 'Microsoft.Owin.Security.Cookies.4.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.owin.security.oauth/4.0.0/microsoft.owin.security.oauth.4.0.0.nupkg 19ms
+Added package 'Microsoft.Owin.Security.Cookies.4.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Microsoft.Web.Infrastructure.1.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.web.infrastructure/1.0.0/microsoft.web.infrastructure.1.0.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.web.infrastructure/1.0.0/microsoft.web.infrastructure.1.0.0.nupkg 15ms
+Installed Microsoft.Web.Infrastructure 1.0.0.0 from https://api.nuget.org/v3/index.json with content hash FNmvLn5m2LTU/Rs2KWVo0SIIh9Ek+U0ojex7xeDaSHw/zgEP77A8vY5cVWgUtBGS8MJfDGNn8rpXJWEIQaPwTg==.
+Installed Microsoft.Owin.Security.OAuth 4.0.0 from https://api.nuget.org/v3/index.json with content hash O5QhUEb7LVXCl/4lasHpd48raGqSQdBk5Z8rojFGcDa90n4u15DTPaNtQGje4Oh+bhSdQjvaoW2kKb8B5szDIw==.
+Adding package 'Microsoft.Web.Infrastructure.1.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Adding package 'Microsoft.Owin.Security.OAuth.4.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Microsoft.Web.Infrastructure.1.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package MimeKit.2.0.6.
+  GET https://api.nuget.org/v3-flatcontainer/mimekit/2.0.6/mimekit.2.0.6.nupkg
+Added package 'Microsoft.Owin.Security.OAuth.4.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Modernizr.2.6.2.
+  GET https://api.nuget.org/v3-flatcontainer/modernizr/2.6.2/modernizr.2.6.2.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/mimekit/2.0.6/mimekit.2.0.6.nupkg 17ms
+  OK https://api.nuget.org/v3-flatcontainer/modernizr/2.6.2/modernizr.2.6.2.nupkg 12ms
+Installed Modernizr 2.6.2 from https://api.nuget.org/v3/index.json with content hash 3KcdGI/xNPSCqwazIlh+W9TFK9WH0v++qj6L2UXNAjt8FrXIz8QKR51XIzJwdIUVCOp8asdbyGaCcXTCT6ppFg==.
+Adding package 'Modernizr.2.6.2' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Modernizr.2.6.2' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package MoreLinq.Portable.1.4.0.
+  GET https://api.nuget.org/v3-flatcontainer/morelinq.portable/1.4.0/morelinq.portable.1.4.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/morelinq.portable/1.4.0/morelinq.portable.1.4.0.nupkg 14ms
+Installed MoreLinq.Portable 1.4.0 from https://api.nuget.org/v3/index.json with content hash PQnzscNgbnvP9CEEDTi4D2yyiSnzcNBEtI3fbAEHFswZc6QbNKyhBt+cs7WnPIr3Y06yEOqxelBdvFfcfEEC/g==.
+Adding package 'MoreLinq.Portable.1.4.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'MoreLinq.Portable.1.4.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Newtonsoft.Json.12.0.2.
+  GET https://api.nuget.org/v3-flatcontainer/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg 13ms
+Installed Newtonsoft.Json 12.0.2 from https://api.nuget.org/v3/index.json with content hash rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==.
+Adding package 'Newtonsoft.Json.12.0.2' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed MimeKit 2.0.6 from https://api.nuget.org/v3/index.json with content hash gf06pNxMut1Re9cLJe66MOOwoswCiYGdsvyAYDjIuVrAe++uskr+R2dm5uPxUp8BT76p3yTP65Lx5wKloiOaRA==.
+Adding package 'MimeKit.2.0.6' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Newtonsoft.Json.12.0.2' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package NHibernate.5.2.6.
+  GET https://api.nuget.org/v3-flatcontainer/nhibernate/5.2.6/nhibernate.5.2.6.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/nhibernate/5.2.6/nhibernate.5.2.6.nupkg 30ms
+Installed Microsoft.Net.Compilers 2.1.0 from https://api.nuget.org/v3/index.json with content hash WSazj3brvWAmUxwf0IriK19ZyGD+BBrwTlqURDtb3FiC9wGZo9LIhlq+ZKg0l160F8t1nk3kMVt1JYQw43YyxQ==.
+Adding package 'Microsoft.Net.Compilers.2.1.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'MimeKit.2.0.6' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package NHibernate.Envers.5.2.3.
+  GET https://api.nuget.org/v3-flatcontainer/nhibernate.envers/5.2.3/nhibernate.envers.5.2.3.nupkg
+Installed Microsoft.CodeDom.Providers.DotNetCompilerPlatform 2.0.1 from https://api.nuget.org/v3/index.json with content hash pn7IMmDyYRwFE316nnMs27GmedPAnjmOfWalWTO+pJkt6JMwdNDQ3yNbWTYG+7zmUU8P4JxhODhXQygDNGvCWQ==.
+Adding package 'Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+  OK https://api.nuget.org/v3-flatcontainer/nhibernate.envers/5.2.3/nhibernate.envers.5.2.3.nupkg 36ms
+Installed NHibernate.Envers 5.2.3 from https://api.nuget.org/v3/index.json with content hash On3HtJslXabWq47F3hPj0P3+KJ+37TgKMmTUgGjbNG6GdMk1Nu9Ly+KsHXNXysybyY5s2x39JIcDb7ncWl39Cw==.
+Adding package 'NHibernate.Envers.5.2.3' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'NHibernate.Envers.5.2.3' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package NLog.4.6.7.
+  GET https://api.nuget.org/v3-flatcontainer/nlog/4.6.7/nlog.4.6.7.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/nlog/4.6.7/nlog.4.6.7.nupkg 14ms
+Added package 'Microsoft.Net.Compilers.2.1.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Npgsql.4.1.1.
+  GET https://api.nuget.org/v3-flatcontainer/npgsql/4.1.1/npgsql.4.1.1.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/npgsql/4.1.1/npgsql.4.1.1.nupkg 23ms
+Added package 'Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Obtics.1.0.13.21.
+  GET https://api.nuget.org/v3-flatcontainer/obtics/1.0.13.21/obtics.1.0.13.21.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/obtics/1.0.13.21/obtics.1.0.13.21.nupkg 27ms
+WARNING: Unable to find version '1.0.13.21' of package 'Obtics'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Obtics.1.0.13.21' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Obtics.1.0.13.21' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package OctoPack.3.6.3.
+  GET https://api.nuget.org/v3-flatcontainer/octopack/3.6.3/octopack.3.6.3.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/octopack/3.6.3/octopack.3.6.3.nupkg 16ms
+Installed OctoPack 3.6.3 from https://api.nuget.org/v3/index.json with content hash SAKPv9edH3tmVh5jHxWaGS8Z3HhPHz4m6ussmeE1Kgmn3nrkL+az+xuDxV8SjEkVxn+dXm4+Jqw3NJjGj0e4PA==.
+Adding package 'OctoPack.3.6.3' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed Npgsql 4.1.1 from https://api.nuget.org/v3/index.json with content hash VvYSduwCVCy1erIntV3jVbBduAL8+hqobg8xf5xPmkqzGJ5j9Wx4y/eXz2+BLmFkozJEjTzxz8/X5cOyJ4P9Ig==.
+Adding package 'Npgsql.4.1.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'OctoPack.3.6.3' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Owin.1.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/owin/1.0.0/owin.1.0.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/owin/1.0.0/owin.1.0.0.nupkg 16ms
+Installed NHibernate 5.2.6 from https://api.nuget.org/v3/index.json with content hash fsRZPLgwrYy6ta2+FmxjUx20a7h0uUk5tIyVFEKAYSY7BG0Qax1lGjfspxchFn9h9gkp1zqQEWNGJoo/RaVmlg==.
+Adding package 'NHibernate.5.2.6' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Npgsql.4.1.1' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Pleasant.9.1.1.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant/9.1.1/pleasant.9.1.1.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant/9.1.1/pleasant.9.1.1.nupkg 22ms
+WARNING: Unable to find version '9.1.1' of package 'Pleasant'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.9.1.1' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.9.1.1' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Autofac.5.1.3.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.autofac/5.1.3/pleasant.autofac.5.1.3.nupkg
+Installed Owin 1.0 from https://api.nuget.org/v3/index.json with content hash OseTFniKmyp76mEzOBwIKGBRS5eMoYNkMKaMXOpxx9jv88+b6mh1rSaw43vjBOItNhaLFG3d0a20PfHyibH5sw==.
+Adding package 'Owin.1.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Owin.1.0.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Pleasant.Autofac.Mvc.5.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.autofac.mvc/5.0.0/pleasant.autofac.mvc.5.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.autofac/5.1.3/pleasant.autofac.5.1.3.nupkg 28ms
+WARNING: Unable to find version '5.1.3' of package 'Pleasant.Autofac'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Autofac.5.1.3' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Autofac.5.1.3' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.DB.12.2.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.db/12.2.0/pleasant.db.12.2.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.autofac.mvc/5.0.0/pleasant.autofac.mvc.5.0.0.nupkg 26ms
+WARNING: Unable to find version '5.0.0' of package 'Pleasant.Autofac.Mvc'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Autofac.Mvc.5.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Autofac.Mvc.5.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.DB.DeprecatedDataScope.12.2.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.db.deprecateddatascope/12.2.0/pleasant.db.deprecateddatascope.12.2.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.db/12.2.0/pleasant.db.12.2.0.nupkg 24ms
+WARNING: Unable to find version '12.2.0' of package 'Pleasant.DB'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.DB.12.2.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.DB.12.2.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.EntityModel.9.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.entitymodel/9.0.0/pleasant.entitymodel.9.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.entitymodel/9.0.0/pleasant.entitymodel.9.0.0.nupkg 27ms
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.db.deprecateddatascope/12.2.0/pleasant.db.deprecateddatascope.12.2.0.nupkg 29ms
+WARNING: Unable to find version '12.2.0' of package 'Pleasant.DB.DeprecatedDataScope'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.DB.DeprecatedDataScope.12.2.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.DB.DeprecatedDataScope.12.2.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '9.0.0' of package 'Pleasant.EntityModel'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.EntityModel.9.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.EntityModel.9.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Help.2.0.1-pre0001.
+Restoring NuGet package Pleasant.Help.Mvc.1.0.0-pre0006.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.help/2.0.1-pre0001/pleasant.help.2.0.1-pre0001.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.help.mvc/1.0.0-pre0006/pleasant.help.mvc.1.0.0-pre0006.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.help/2.0.1-pre0001/pleasant.help.2.0.1-pre0001.nupkg 21ms
+WARNING: Unable to find version '2.0.1-pre0001' of package 'Pleasant.Help'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Help.2.0.1-pre0001' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Help.2.0.1-pre0001' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Help.Mvc.Views.Bootstrap3.1.0.0-pre0006.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.help.mvc.views.bootstrap3/1.0.0-pre0006/pleasant.help.mvc.views.bootstrap3.1.0.0-pre0006.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.help.mvc/1.0.0-pre0006/pleasant.help.mvc.1.0.0-pre0006.nupkg 28ms
+WARNING: Unable to find version '1.0.0-pre0006' of package 'Pleasant.Help.Mvc'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Help.Mvc.1.0.0-pre0006' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Help.Mvc.1.0.0-pre0006' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Identity.16.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.identity/16.0.0/pleasant.identity.16.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.help.mvc.views.bootstrap3/1.0.0-pre0006/pleasant.help.mvc.views.bootstrap3.1.0.0-pre0006.nupkg 27ms
+WARNING: Unable to find version '1.0.0-pre0006' of package 'Pleasant.Help.Mvc.Views.Bootstrap3'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Help.Mvc.Views.Bootstrap3.1.0.0-pre0006' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Help.Mvc.Views.Bootstrap3.1.0.0-pre0006' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Identity.Mvc.16.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.identity.mvc/16.0.0/pleasant.identity.mvc.16.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.identity/16.0.0/pleasant.identity.16.0.0.nupkg 25ms
+WARNING: Unable to find version '16.0.0' of package 'Pleasant.Identity'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Identity.16.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Identity.16.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Identity.Mvc.Template.Bootstrap3.5.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.identity.mvc.template.bootstrap3/5.0.0/pleasant.identity.mvc.template.bootstrap3.5.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.identity.mvc/16.0.0/pleasant.identity.mvc.16.0.0.nupkg 26ms
+WARNING: Unable to find version '16.0.0' of package 'Pleasant.Identity.Mvc'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Identity.Mvc.16.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Identity.Mvc.16.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Identity.Mvc.Views.Bootstrap3.16.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.identity.mvc.views.bootstrap3/16.0.0/pleasant.identity.mvc.views.bootstrap3.16.0.0.nupkg
+Installed NLog 4.6.7 from https://api.nuget.org/v3/index.json with content hash xSIzXrIF89Ww6yoJPvyBcu4JLgNiDiEaTT4GyVltZEeVIvkgSm9J/srUy1Yz0EXwbTv502l8knoCFrgNc/MUMA==.
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.identity.mvc.template.bootstrap3/5.0.0/pleasant.identity.mvc.template.bootstrap3.5.0.0.nupkg 28ms
+WARNING: Unable to find version '5.0.0' of package 'Pleasant.Identity.Mvc.Template.Bootstrap3'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Identity.Mvc.Template.Bootstrap3.5.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Identity.Mvc.Template.Bootstrap3.5.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Identity.Owin.16.0.0.
+Adding package 'NLog.4.6.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.identity.owin/16.0.0/pleasant.identity.owin.16.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.identity.mvc.views.bootstrap3/16.0.0/pleasant.identity.mvc.views.bootstrap3.16.0.0.nupkg 21ms
+WARNING: Unable to find version '16.0.0' of package 'Pleasant.Identity.Mvc.Views.Bootstrap3'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Identity.Mvc.Views.Bootstrap3.16.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Identity.Mvc.Views.Bootstrap3.16.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Kendo.2018.3.911.5451.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.kendo/2018.3.911.5451/pleasant.kendo.2018.3.911.5451.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.identity.owin/16.0.0/pleasant.identity.owin.16.0.0.nupkg 29ms
+WARNING: Unable to find version '16.0.0' of package 'Pleasant.Identity.Owin'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Identity.Owin.16.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Identity.Owin.16.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Kendo.Mvc.2018.3.911.5451.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.kendo.mvc/2018.3.911.5451/pleasant.kendo.mvc.2018.3.911.5451.nupkg
+Added package 'NHibernate.5.2.6' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Pleasant.Net.Mail.9.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.net.mail/9.0.0/pleasant.net.mail.9.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.kendo/2018.3.911.5451/pleasant.kendo.2018.3.911.5451.nupkg 28ms
+WARNING: Unable to find version '2018.3.911.5451' of package 'Pleasant.Kendo'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Kendo.2018.3.911.5451' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Kendo.2018.3.911.5451' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Numeric.Measures.4.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.numeric.measures/4.0.0/pleasant.numeric.measures.4.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.net.mail/9.0.0/pleasant.net.mail.9.0.0.nupkg 30ms
+WARNING: Unable to find version '9.0.0' of package 'Pleasant.Net.Mail'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Net.Mail.9.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Net.Mail.9.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Numeric.Measures.Database.4.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.numeric.measures.database/4.0.0/pleasant.numeric.measures.database.4.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.kendo.mvc/2018.3.911.5451/pleasant.kendo.mvc.2018.3.911.5451.nupkg 36ms
+WARNING: Unable to find version '2018.3.911.5451' of package 'Pleasant.Kendo.Mvc'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Kendo.Mvc.2018.3.911.5451' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Kendo.Mvc.2018.3.911.5451' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Owin.2.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.owin/2.0.0/pleasant.owin.2.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.numeric.measures/4.0.0/pleasant.numeric.measures.4.0.0.nupkg 28ms
+WARNING: Unable to find version '4.0.0' of package 'Pleasant.Numeric.Measures'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Numeric.Measures.4.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Numeric.Measures.4.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Processing.8.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.processing/8.0.0/pleasant.processing.8.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.numeric.measures.database/4.0.0/pleasant.numeric.measures.database.4.0.0.nupkg 34ms
+WARNING: Unable to find version '4.0.0' of package 'Pleasant.Numeric.Measures.Database'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Numeric.Measures.Database.4.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Numeric.Measures.Database.4.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Regional.7.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.regional/7.0.0/pleasant.regional.7.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.processing/8.0.0/pleasant.processing.8.0.0.nupkg 42ms
+WARNING: Unable to find version '8.0.0' of package 'Pleasant.Processing'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Processing.8.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Processing.8.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Regional.Mvc.6.1.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.regional.mvc/6.1.0/pleasant.regional.mvc.6.1.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.owin/2.0.0/pleasant.owin.2.0.0.nupkg 69ms
+WARNING: Unable to find version '2.0.0' of package 'Pleasant.Owin'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Owin.2.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Owin.2.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.regional/7.0.0/pleasant.regional.7.0.0.nupkg 37ms
+WARNING: Unable to find version '7.0.0' of package 'Pleasant.Regional'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Regional.7.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Regional.7.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Templating.7.0.0.
+Restoring NuGet package Pleasant.Templating.Email.7.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.templating/7.0.0/pleasant.templating.7.0.0.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.templating.email/7.0.0/pleasant.templating.email.7.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.templating.email/7.0.0/pleasant.templating.email.7.0.0.nupkg 23ms
+WARNING: Unable to find version '7.0.0' of package 'Pleasant.Templating.Email'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Templating.Email.7.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Templating.Email.7.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.VirtualFileSystem.3.0.0.
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.templating/7.0.0/pleasant.templating.7.0.0.nupkg 25ms
+WARNING: Unable to find version '7.0.0' of package 'Pleasant.Templating'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Templating.7.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Templating.7.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Web.5.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.virtualfilesystem/3.0.0/pleasant.virtualfilesystem.3.0.0.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.web/5.0.0/pleasant.web.5.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.regional.mvc/6.1.0/pleasant.regional.mvc.6.1.0.nupkg 40ms
+WARNING: Unable to find version '6.1.0' of package 'Pleasant.Regional.Mvc'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Regional.Mvc.6.1.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Regional.Mvc.6.1.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Web.Mvc.17.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.web.mvc/17.0.0/pleasant.web.mvc.17.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.web/5.0.0/pleasant.web.5.0.0.nupkg 23ms
+WARNING: Unable to find version '5.0.0' of package 'Pleasant.Web'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Web.5.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Web.5.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Web.Mvc.Template.Bootstrap3.5.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.web.mvc.template.bootstrap3/5.0.0/pleasant.web.mvc.template.bootstrap3.5.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.virtualfilesystem/3.0.0/pleasant.virtualfilesystem.3.0.0.nupkg 29ms
+WARNING: Unable to find version '3.0.0' of package 'Pleasant.VirtualFileSystem'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.VirtualFileSystem.3.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.VirtualFileSystem.3.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Web.Mvc.Views.17.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.web.mvc.views/17.0.0/pleasant.web.mvc.views.17.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.web.mvc/17.0.0/pleasant.web.mvc.17.0.0.nupkg 28ms
+WARNING: Unable to find version '17.0.0' of package 'Pleasant.Web.Mvc'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Web.Mvc.17.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Web.Mvc.17.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Pleasant.Web.Mvc.Views.Bootstrap3.17.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.web.mvc.views.bootstrap3/17.0.0/pleasant.web.mvc.views.bootstrap3.17.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.web.mvc.views.bootstrap3/17.0.0/pleasant.web.mvc.views.bootstrap3.17.0.0.nupkg 20ms
+WARNING: Unable to find version '17.0.0' of package 'Pleasant.Web.Mvc.Views.Bootstrap3'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Web.Mvc.Views.Bootstrap3.17.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Web.Mvc.Views.Bootstrap3.17.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package PleasantModeller.Support.4.0.2.
+  GET https://api.nuget.org/v3-flatcontainer/pleasantmodeller.support/4.0.2/pleasantmodeller.support.4.0.2.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.web.mvc.template.bootstrap3/5.0.0/pleasant.web.mvc.template.bootstrap3.5.0.0.nupkg 33ms
+WARNING: Unable to find version '5.0.0' of package 'Pleasant.Web.Mvc.Template.Bootstrap3'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Web.Mvc.Template.Bootstrap3.5.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Web.Mvc.Template.Bootstrap3.5.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package PleasantModeller.Support.Wpf.3.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/pleasantmodeller.support.wpf/3.0.0/pleasantmodeller.support.wpf.3.0.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.web.mvc.views/17.0.0/pleasant.web.mvc.views.17.0.0.nupkg 31ms
+WARNING: Unable to find version '17.0.0' of package 'Pleasant.Web.Mvc.Views'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Web.Mvc.Views.17.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Web.Mvc.Views.17.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Quartz.3.0.7.
+  GET https://api.nuget.org/v3-flatcontainer/quartz/3.0.7/quartz.3.0.7.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/quartz/3.0.7/quartz.3.0.7.nupkg 15ms
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasantmodeller.support/4.0.2/pleasantmodeller.support.4.0.2.nupkg 29ms
+WARNING: Unable to find version '4.0.2' of package 'PleasantModeller.Support'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'PleasantModeller.Support.4.0.2' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'PleasantModeller.Support.4.0.2' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package QuickGraph.3.6.63896.
+  GET https://api.nuget.org/v3-flatcontainer/quickgraph/3.6.63896/quickgraph.3.6.63896.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasantmodeller.support.wpf/3.0.0/pleasantmodeller.support.wpf.3.0.0.nupkg 32ms
+WARNING: Unable to find version '3.0.0' of package 'PleasantModeller.Support.Wpf'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'PleasantModeller.Support.Wpf.3.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'PleasantModeller.Support.Wpf.3.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Remotion.Linq.2.2.0.
+  GET https://api.nuget.org/v3-flatcontainer/remotion.linq/2.2.0/remotion.linq.2.2.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/remotion.linq/2.2.0/remotion.linq.2.2.0.nupkg 19ms
+  NotFound https://api.nuget.org/v3-flatcontainer/quickgraph/3.6.63896/quickgraph.3.6.63896.nupkg 28ms
+WARNING: Unable to find version '3.6.63896' of package 'QuickGraph'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'QuickGraph.3.6.63896' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'QuickGraph.3.6.63896' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring NuGet package Remotion.Linq.EagerFetching.2.2.0.
+  GET https://api.nuget.org/v3-flatcontainer/remotion.linq.eagerfetching/2.2.0/remotion.linq.eagerfetching.2.2.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/remotion.linq.eagerfetching/2.2.0/remotion.linq.eagerfetching.2.2.0.nupkg 16ms
+Added package 'NLog.4.6.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package Respond.1.2.0.
+  GET https://api.nuget.org/v3-flatcontainer/respond/1.2.0/respond.1.2.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/respond/1.2.0/respond.1.2.0.nupkg 16ms
+Installed Respond 1.2.0 from https://api.nuget.org/v3/index.json with content hash n/EC7jh1JBc5iE7TAmyFvrziR5Lir2TG0J0ipq4NSe//7Ih0rbMS2qmodIXkAFDf6oQZkYARLa5re9dSDb3gHQ==.
+Adding package 'Respond.1.2.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Respond.1.2.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.Buffers.4.5.0.
+  GET https://api.nuget.org/v3-flatcontainer/system.buffers/4.5.0/system.buffers.4.5.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.buffers/4.5.0/system.buffers.4.5.0.nupkg 15ms
+Installed Remotion.Linq.EagerFetching 2.2.0 from https://api.nuget.org/v3/index.json with content hash d6bkH5kROJPFsdvDy4yQved9I4ickamytPByPyuQcH9dk1ef4jciajo50vTQhheyOHeWOgLh97UvkiHV8QSgeQ==.
+Adding package 'Remotion.Linq.EagerFetching.2.2.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed Quartz 3.0.7 from https://api.nuget.org/v3/index.json with content hash jnHuMwRprkqpmnKZU5xwEB95v1bF4JQWes82p2IPTAEGcBsZ5CSEQ4Pu1StCyD64JIm71C5/i7kuroZEHx5iwA==.
+Adding package 'Quartz.3.0.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Remotion.Linq.EagerFetching.2.2.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.Collections.Immutable.1.5.0.
+  GET https://api.nuget.org/v3-flatcontainer/system.collections.immutable/1.5.0/system.collections.immutable.1.5.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.collections.immutable/1.5.0/system.collections.immutable.1.5.0.nupkg 15ms
+Installed Remotion.Linq 2.2.0 from https://api.nuget.org/v3/index.json with content hash fK/76UmpC0FXBlGDFVPLJHQlDLYnGC+XY3eoDgCgbtrhi0vzbXDQ3n/IYHhqSKqXQfGw/u04A1drWs7rFVkRjw==.
+Adding package 'Remotion.Linq.2.2.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'Quartz.3.0.7' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.ComponentModel.4.3.0.
+  GET https://api.nuget.org/v3-flatcontainer/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg 14ms
+Added package 'Remotion.Linq.2.2.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.ComponentModel.Annotations.4.6.0.
+  GET https://api.nuget.org/v3-flatcontainer/system.componentmodel.annotations/4.6.0/system.componentmodel.annotations.4.6.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.componentmodel.annotations/4.6.0/system.componentmodel.annotations.4.6.0.nupkg 13ms
+Installed System.Buffers 4.5.0 from https://api.nuget.org/v3/index.json with content hash pL2ChpaRRWI/p4LXyy4RgeWlYF2sgfj/pnVMvBqwNFr5cXg7CXNnWZWxrOONLg8VGdFB8oB+EG2Qw4MLgTOe+A==.
+Adding package 'System.Buffers.4.5.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'System.Buffers.4.5.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.Configuration.ConfigurationManager.4.6.0.
+  GET https://api.nuget.org/v3-flatcontainer/system.configuration.configurationmanager/4.6.0/system.configuration.configurationmanager.4.6.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.configuration.configurationmanager/4.6.0/system.configuration.configurationmanager.4.6.0.nupkg 15ms
+Installed System.Collections.Immutable 1.5.0 from https://api.nuget.org/v3/index.json with content hash EXKiDFsChZW0RjrZ4FYHu9aW6+P4MCgEDCklsVseRfhoO0F+dXeMSsMRAlVXIo06kGJ/zv+2w1a2uc2+kxxSaQ==.
+Adding package 'System.Collections.Immutable.1.5.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'System.Collections.Immutable.1.5.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.Data.DataSetExtensions.4.5.0.
+  GET https://api.nuget.org/v3-flatcontainer/system.data.datasetextensions/4.5.0/system.data.datasetextensions.4.5.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.data.datasetextensions/4.5.0/system.data.datasetextensions.4.5.0.nupkg 13ms
+Installed System.Configuration.ConfigurationManager 4.6.0 from https://api.nuget.org/v3/index.json with content hash gkNklXxdmB3r4SQTUzRhESZAb3MotgDz24XYi2R/bIjJ10SF0KHJ/qTEwi9CLyIAOTjmCo8Vx8+rKldLaiW7Ig==.
+Adding package 'System.Configuration.ConfigurationManager.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed System.Data.DataSetExtensions 4.5.0 from https://api.nuget.org/v3/index.json with content hash 221clPs1445HkTBZPL+K9sDBdJRB8UN8rgjO3ztB0CQ26z//fmJXtlsr6whGatscsKGBrhJl5bwJuKSA8mwFOw==.
+Adding package 'System.Data.DataSetExtensions.4.5.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed System.ComponentModel 4.3.0 from https://api.nuget.org/v3/index.json with content hash VyGn1jGRZVfxnh8EdvDCi71v3bMXrsu8aYJOwoV7SNDLVhiEqwP86pPMyRGsDsxhXAm2b3o9OIqeETfN5qfezw==.
+Adding package 'System.ComponentModel.4.3.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'System.Data.DataSetExtensions.4.5.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.Data.SqlClient.4.7.0.
+  GET https://api.nuget.org/v3-flatcontainer/system.data.sqlclient/4.7.0/system.data.sqlclient.4.7.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.data.sqlclient/4.7.0/system.data.sqlclient.4.7.0.nupkg 18ms
+Added package 'System.Configuration.ConfigurationManager.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.Diagnostics.DiagnosticSource.4.4.0.
+  GET https://api.nuget.org/v3-flatcontainer/system.diagnostics.diagnosticsource/4.4.0/system.diagnostics.diagnosticsource.4.4.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.diagnostics.diagnosticsource/4.4.0/system.diagnostics.diagnosticsource.4.4.0.nupkg 17ms
+Added package 'System.ComponentModel.4.3.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.DirectoryServices.Protocols.4.6.0.
+  GET https://api.nuget.org/v3-flatcontainer/system.directoryservices.protocols/4.6.0/system.directoryservices.protocols.4.6.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.directoryservices.protocols/4.6.0/system.directoryservices.protocols.4.6.0.nupkg 19ms
+Installed System.Diagnostics.DiagnosticSource 4.4.0 from https://api.nuget.org/v3/index.json with content hash 2SMt95w+TKf2fth4mSlqn1AVNSmFDQkdTVmUe6D/oP1atzVU0vxTb+iDP+IHNQB1qSbYkWNoPN55SaMsGUe68A==.
+Adding package 'System.Diagnostics.DiagnosticSource.4.4.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed System.DirectoryServices.Protocols 4.6.0 from https://api.nuget.org/v3/index.json with content hash gj+mTVMQ0zQfvxhCsI83deLbLUySGHUVMCgtOHiSoX8/Ivrdc1JJNy/4bNpXzIh3cgDpkUfk8YKkbGuF2ymdzQ==.
+Adding package 'System.DirectoryServices.Protocols.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'System.Diagnostics.DiagnosticSource.4.4.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.Memory.4.5.3.
+  GET https://api.nuget.org/v3-flatcontainer/system.memory/4.5.3/system.memory.4.5.3.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.memory/4.5.3/system.memory.4.5.3.nupkg 13ms
+Added package 'System.DirectoryServices.Protocols.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.Numerics.Vectors.4.5.0.
+  GET https://api.nuget.org/v3-flatcontainer/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg 15ms
+Installed System.Memory 4.5.3 from https://api.nuget.org/v3/index.json with content hash 3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==.
+Adding package 'System.Memory.4.5.3' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed System.ComponentModel.Annotations 4.6.0 from https://api.nuget.org/v3/index.json with content hash pOd+UhZ3X8xfwKDlgAzowUJNjp8VYVmOHZm++vCd0kq1HZ0zK3mNo2yRXjYgv7Ik/Xi43fmJfND2PLEsQSALCg==.
+Adding package 'System.ComponentModel.Annotations.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'System.Memory.4.5.3' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.Runtime.CompilerServices.Unsafe.4.6.0.
+  GET https://api.nuget.org/v3-flatcontainer/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg 13ms
+Added package 'System.ComponentModel.Annotations.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.Security.AccessControl.4.6.0.
+  GET https://api.nuget.org/v3-flatcontainer/system.security.accesscontrol/4.6.0/system.security.accesscontrol.4.6.0.nupkg
+Installed System.Runtime.CompilerServices.Unsafe 4.6.0 from https://api.nuget.org/v3/index.json with content hash HxozeSlipUK7dAroTYwIcGwKDeOVpQnJlpVaOkBz7CM4TsE5b/tKlQBZecTjh6FzcSbxndYaxxpsBMz+wMJeyw==.
+Adding package 'System.Runtime.CompilerServices.Unsafe.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed System.Numerics.Vectors 4.5.0 from https://api.nuget.org/v3/index.json with content hash QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==.
+  OK https://api.nuget.org/v3-flatcontainer/system.security.accesscontrol/4.6.0/system.security.accesscontrol.4.6.0.nupkg 14ms
+Adding package 'System.Numerics.Vectors.4.5.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'System.Runtime.CompilerServices.Unsafe.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.Security.Permissions.4.6.0.
+  GET https://api.nuget.org/v3-flatcontainer/system.security.permissions/4.6.0/system.security.permissions.4.6.0.nupkg
+Added package 'System.Numerics.Vectors.4.5.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.Security.Principal.Windows.4.6.0.
+  GET https://api.nuget.org/v3-flatcontainer/system.security.principal.windows/4.6.0/system.security.principal.windows.4.6.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.security.permissions/4.6.0/system.security.permissions.4.6.0.nupkg 15ms
+  OK https://api.nuget.org/v3-flatcontainer/system.security.principal.windows/4.6.0/system.security.principal.windows.4.6.0.nupkg 15ms
+Installed System.Security.Permissions 4.6.0 from https://api.nuget.org/v3/index.json with content hash W3Uxog9KCZAmGYsOFHgJnb7L2q+SDbxS3vGnFHmErUnXuIjWYpIh1KVTlua7qmPdrlRCkAcTF9dImv+jciBPOQ==.
+Adding package 'System.Security.Permissions.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'System.Security.Permissions.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.Text.Encodings.Web.4.6.0.
+  GET https://api.nuget.org/v3-flatcontainer/system.text.encodings.web/4.6.0/system.text.encodings.web.4.6.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.text.encodings.web/4.6.0/system.text.encodings.web.4.6.0.nupkg 16ms
+Installed System.Security.AccessControl 4.6.0 from https://api.nuget.org/v3/index.json with content hash gmlk6khICtVhiUnVBBtlsH0H/5QFDqhTZgtpp3AX14wWE6OIE+BX95NLD+X4AolXnIy/oXpNNmXYnsNfW1KuDQ==.
+Adding package 'System.Security.AccessControl.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'System.Security.AccessControl.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.Text.Json.4.6.0.
+  GET https://api.nuget.org/v3-flatcontainer/system.text.json/4.6.0/system.text.json.4.6.0.nupkg
+Installed System.Text.Encodings.Web 4.6.0 from https://api.nuget.org/v3/index.json with content hash BXgFO8Yi7ao7hVA/nklD0Hre1Bbce048ZqryGZVFifGNPuh+2jqF1i/jLJLMfFGZIzUOw+nCIeH24SQhghDSPw==.
+Adding package 'System.Text.Encodings.Web.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+  OK https://api.nuget.org/v3-flatcontainer/system.text.json/4.6.0/system.text.json.4.6.0.nupkg 13ms
+Added package 'System.Text.Encodings.Web.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.Threading.Tasks.Extensions.4.5.3.
+  GET https://api.nuget.org/v3-flatcontainer/system.threading.tasks.extensions/4.5.3/system.threading.tasks.extensions.4.5.3.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.threading.tasks.extensions/4.5.3/system.threading.tasks.extensions.4.5.3.nupkg 16ms
+Installed System.Security.Principal.Windows 4.6.0 from https://api.nuget.org/v3/index.json with content hash Mdukseovp0YIGaz16FMH6nbfgZkrCFOJbtXQptv0aeBO9h775Ilb9+TDwLVTKikoW7y7CY7lpoXl9zmZ5G3ndA==.
+Adding package 'System.Security.Principal.Windows.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed System.Data.SqlClient 4.7.0 from https://api.nuget.org/v3/index.json with content hash lV3ljZeFc01DYyjcEBSxK3sy8Ow2R6AWa6o+g0t7B4hoDcA6Kzv4bTB4E4T7C/pKuZzHeBFLxe6fD4Am4q939Q==.
+Adding package 'System.Data.SqlClient.4.7.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'System.Security.Principal.Windows.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.Threading.Thread.4.3.0.
+  GET https://api.nuget.org/v3-flatcontainer/system.threading.thread/4.3.0/system.threading.thread.4.3.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.threading.thread/4.3.0/system.threading.thread.4.3.0.nupkg 15ms
+Added package 'System.Data.SqlClient.4.7.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package System.ValueTuple.4.5.0.
+  GET https://api.nuget.org/v3-flatcontainer/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg 16ms
+Installed System.Text.Json 4.6.0 from https://api.nuget.org/v3/index.json with content hash 4F8Xe+JIkVoDJ8hDAZ7HqLkjctN/6WItJIzQaifBwClC7wmoLSda/Sv2i6i1kycqDb3hWF4JCVbpAweyOKHEUA==.
+Adding package 'System.Text.Json.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'System.Text.Json.4.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package WebActivatorEx.2.2.0.
+  GET https://api.nuget.org/v3-flatcontainer/webactivatorex/2.2.0/webactivatorex.2.2.0.nupkg
+Installed System.Threading.Tasks.Extensions 4.5.3 from https://api.nuget.org/v3/index.json with content hash +MvhNtcvIbqmhANyKu91jQnvIRVSTiaOiFNfKWwXGHG48YAb4I/TyH8spsySiPYla7gKal5ZnF3teJqZAximyQ==.
+Adding package 'System.Threading.Tasks.Extensions.4.5.3' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+  OK https://api.nuget.org/v3-flatcontainer/webactivatorex/2.2.0/webactivatorex.2.2.0.nupkg 15ms
+Installed WebActivatorEx 2.2.0 from https://api.nuget.org/v3/index.json with content hash LpTC82DGzFeqHjRGLvynZKRjjELcsED5f784N4IWEPZhPlJsVYQKVpxNUjNdcMV6YHMqRhEiqolr69UVaT4ciw==.
+Adding package 'WebActivatorEx.2.2.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'WebActivatorEx.2.2.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Restoring NuGet package WebGrease.1.6.0.
+  GET https://api.nuget.org/v3-flatcontainer/webgrease/1.6.0/webgrease.1.6.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/webgrease/1.6.0/webgrease.1.6.0.nupkg 12ms
+Installed System.ValueTuple 4.5.0 from https://api.nuget.org/v3/index.json with content hash okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==.
+Adding package 'System.ValueTuple.4.5.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'System.Threading.Tasks.Extensions.4.5.3' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed System.Threading.Thread 4.3.0 from https://api.nuget.org/v3/index.json with content hash OHmbT+Zz065NKII/ZHcH9XO1dEuLGI1L2k7uYss+9C1jLxTC9kTZZuzUOyXHayRk+dft9CiDf3I/QZ0t8JKyBQ==.
+Adding package 'System.Threading.Thread.4.3.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'System.Threading.Thread.4.3.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'System.ValueTuple.4.5.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Installed WebGrease 1.6.0 from https://api.nuget.org/v3/index.json with content hash 1d29edoh4IZPLig82coowiPBS1ltxT97PwEIkOk0dHqtJwD9v5C7gPm6Ot1hKHT86otKm04oDQ00x5c+PyVyxw==.
+Adding package 'WebGrease.1.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+Added package 'WebGrease.1.6.0' to folder 'C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\packages'
+WARNING: Unable to find version '1.0.13.21' of package 'Obtics'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Obtics.1.0.13.21' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Obtics.1.0.13.21' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '9.1.1' of package 'Pleasant'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.9.1.1' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.9.1.1' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '5.1.3' of package 'Pleasant.Autofac'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Autofac.5.1.3' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Autofac.5.1.3' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '5.0.0' of package 'Pleasant.Autofac.Mvc'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Autofac.Mvc.5.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Autofac.Mvc.5.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '12.2.0' of package 'Pleasant.DB'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.DB.12.2.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.DB.12.2.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '12.2.0' of package 'Pleasant.DB.DeprecatedDataScope'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.DB.DeprecatedDataScope.12.2.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.DB.DeprecatedDataScope.12.2.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '9.0.0' of package 'Pleasant.EntityModel'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.EntityModel.9.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.EntityModel.9.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '2.0.1-pre0001' of package 'Pleasant.Help'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Help.2.0.1-pre0001' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Help.2.0.1-pre0001' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '1.0.0-pre0006' of package 'Pleasant.Help.Mvc'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Help.Mvc.1.0.0-pre0006' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Help.Mvc.1.0.0-pre0006' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '1.0.0-pre0006' of package 'Pleasant.Help.Mvc.Views.Bootstrap3'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Help.Mvc.Views.Bootstrap3.1.0.0-pre0006' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Help.Mvc.Views.Bootstrap3.1.0.0-pre0006' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '16.0.0' of package 'Pleasant.Identity'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Identity.16.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Identity.16.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '16.0.0' of package 'Pleasant.Identity.Mvc'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Identity.Mvc.16.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Identity.Mvc.16.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '5.0.0' of package 'Pleasant.Identity.Mvc.Template.Bootstrap3'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Identity.Mvc.Template.Bootstrap3.5.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Identity.Mvc.Template.Bootstrap3.5.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '16.0.0' of package 'Pleasant.Identity.Mvc.Views.Bootstrap3'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Identity.Mvc.Views.Bootstrap3.16.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Identity.Mvc.Views.Bootstrap3.16.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '16.0.0' of package 'Pleasant.Identity.Owin'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Identity.Owin.16.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Identity.Owin.16.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '2018.3.911.5451' of package 'Pleasant.Kendo'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Kendo.2018.3.911.5451' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Kendo.2018.3.911.5451' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '9.0.0' of package 'Pleasant.Net.Mail'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Net.Mail.9.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Net.Mail.9.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '2018.3.911.5451' of package 'Pleasant.Kendo.Mvc'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Kendo.Mvc.2018.3.911.5451' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Kendo.Mvc.2018.3.911.5451' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '4.0.0' of package 'Pleasant.Numeric.Measures'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Numeric.Measures.4.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Numeric.Measures.4.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '4.0.0' of package 'Pleasant.Numeric.Measures.Database'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Numeric.Measures.Database.4.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Numeric.Measures.Database.4.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '8.0.0' of package 'Pleasant.Processing'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Processing.8.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Processing.8.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '2.0.0' of package 'Pleasant.Owin'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Owin.2.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Owin.2.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '7.0.0' of package 'Pleasant.Regional'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Regional.7.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Regional.7.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '7.0.0' of package 'Pleasant.Templating.Email'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Templating.Email.7.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Templating.Email.7.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '7.0.0' of package 'Pleasant.Templating'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Templating.7.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Templating.7.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '6.1.0' of package 'Pleasant.Regional.Mvc'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Regional.Mvc.6.1.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Regional.Mvc.6.1.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '5.0.0' of package 'Pleasant.Web'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Web.5.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Web.5.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '3.0.0' of package 'Pleasant.VirtualFileSystem'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.VirtualFileSystem.3.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.VirtualFileSystem.3.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '17.0.0' of package 'Pleasant.Web.Mvc'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Web.Mvc.17.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Web.Mvc.17.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '17.0.0' of package 'Pleasant.Web.Mvc.Views.Bootstrap3'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Web.Mvc.Views.Bootstrap3.17.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Web.Mvc.Views.Bootstrap3.17.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '5.0.0' of package 'Pleasant.Web.Mvc.Template.Bootstrap3'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Web.Mvc.Template.Bootstrap3.5.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Web.Mvc.Template.Bootstrap3.5.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '17.0.0' of package 'Pleasant.Web.Mvc.Views'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Web.Mvc.Views.17.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'Pleasant.Web.Mvc.Views.17.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '4.0.2' of package 'PleasantModeller.Support'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'PleasantModeller.Support.4.0.2' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'PleasantModeller.Support.4.0.2' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '3.0.0' of package 'PleasantModeller.Support.Wpf'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'PleasantModeller.Support.Wpf.3.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'PleasantModeller.Support.Wpf.3.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+WARNING: Unable to find version '3.6.63896' of package 'QuickGraph'.
+  C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'QuickGraph.3.6.63896' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+  https://api.nuget.org/v3/index.json: Package 'QuickGraph.3.6.63896' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Restoring packages for C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\RxNet.Tests\RxNet.Tests.csproj...
+Restoring packages for C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\RxNet.Business\RxNet.Business.csproj...
+  GET https://api.nuget.org/v3-flatcontainer/csvhelper/index.json
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.testplatform.objectmodel/index.json
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.net.test.sdk/index.json
+  GET https://api.nuget.org/v3-flatcontainer/epplus/index.json
+  GET https://api.nuget.org/v3-flatcontainer/moq/index.json
+  GET https://api.nuget.org/v3-flatcontainer/exceldatareader/index.json
+  GET https://api.nuget.org/v3-flatcontainer/nunit3testadapter/index.json
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.db/index.json
+  GET https://api.nuget.org/v3-flatcontainer/teamcity.vstest.testadapter/index.json
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.testplatform.objectmodel/index.json 57ms
+  OK https://api.nuget.org/v3-flatcontainer/nunit3testadapter/index.json 53ms
+  OK https://api.nuget.org/v3-flatcontainer/exceldatareader/index.json 58ms
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.db/index.json 58ms
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.net.test.sdk/index.json 72ms
+  OK https://api.nuget.org/v3-flatcontainer/moq/index.json 78ms
+  OK https://api.nuget.org/v3-flatcontainer/epplus/index.json 79ms
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.owin.security/index.json
+  OK https://api.nuget.org/v3-flatcontainer/teamcity.vstest.testadapter/index.json 81ms
+  OK https://api.nuget.org/v3-flatcontainer/csvhelper/index.json 94ms
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.db.deprecateddatascope/index.json
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.help/index.json
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.identity/index.json
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.regional/index.json
+  GET https://api.nuget.org/v3-flatcontainer/pleasant.templating/index.json
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.testplatform.objectmodel/16.9.4/microsoft.testplatform.objectmodel.16.9.4.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/pleasantmodeller.support/index.json
+  GET https://api.nuget.org/v3-flatcontainer/system.runtime.caching/index.json
+  GET https://api.nuget.org/v3-flatcontainer/nunit3testadapter/3.13.0/nunit3testadapter.3.13.0.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/epplus/4.5.2.1/epplus.4.5.2.1.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/exceldatareader/3.4.0/exceldatareader.3.4.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.owin.security/index.json 40ms
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.net.test.sdk/15.9.0/microsoft.net.test.sdk.15.9.0.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/csvhelper/7.1.0/csvhelper.7.1.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.testplatform.objectmodel/16.9.4/microsoft.testplatform.objectmodel.16.9.4.nupkg 16ms
+  GET https://api.nuget.org/v3-flatcontainer/moq/4.1.1309.1617/moq.4.1.1309.1617.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.owin.security/2.1.0/microsoft.owin.security.2.1.0.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/teamcity.vstest.testadapter/1.0.25/teamcity.vstest.testadapter.1.0.25.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.identity/index.json 25ms
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasantmodeller.support/index.json 23ms
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.db.deprecateddatascope/index.json 27ms
+  OK https://api.nuget.org/v3-flatcontainer/system.runtime.caching/index.json 21ms
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.templating/index.json 27ms
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.help/index.json 30ms
+  GET https://api.nuget.org/v3-flatcontainer/system.runtime.caching/4.6.0/system.runtime.caching.4.6.0.nupkg
+  NotFound https://api.nuget.org/v3-flatcontainer/pleasant.regional/index.json 30ms
+  OK https://api.nuget.org/v3-flatcontainer/csvhelper/7.1.0/csvhelper.7.1.0.nupkg 19ms
+  OK https://api.nuget.org/v3-flatcontainer/system.runtime.caching/4.6.0/system.runtime.caching.4.6.0.nupkg 15ms
+  OK https://api.nuget.org/v3-flatcontainer/nunit3testadapter/3.13.0/nunit3testadapter.3.13.0.nupkg 43ms
+  OK https://api.nuget.org/v3-flatcontainer/epplus/4.5.2.1/epplus.4.5.2.1.nupkg 55ms
+  OK https://api.nuget.org/v3-flatcontainer/exceldatareader/3.4.0/exceldatareader.3.4.0.nupkg 54ms
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.net.test.sdk/15.9.0/microsoft.net.test.sdk.15.9.0.nupkg 53ms
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.owin.security/2.1.0/microsoft.owin.security.2.1.0.nupkg 56ms
+  OK https://api.nuget.org/v3-flatcontainer/teamcity.vstest.testadapter/1.0.25/teamcity.vstest.testadapter.1.0.25.nupkg 55ms
+  OK https://api.nuget.org/v3-flatcontainer/moq/4.1.1309.1617/moq.4.1.1309.1617.nupkg 70ms
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.owin/index.json
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.codecoverage/index.json
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.codecoverage/index.json 18ms
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.owin/index.json 21ms
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.codecoverage/15.9.0/microsoft.codecoverage.15.9.0.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.owin/2.1.0/microsoft.owin.2.1.0.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/ioc.container/index.json
+  GET https://api.nuget.org/v3-flatcontainer/teamcity.servicemessages/index.json
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.owin/2.1.0/microsoft.owin.2.1.0.nupkg 15ms
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.codecoverage/15.9.0/microsoft.codecoverage.15.9.0.nupkg 17ms
+  OK https://api.nuget.org/v3-flatcontainer/ioc.container/index.json 31ms
+  GET https://api.nuget.org/v3-flatcontainer/system.reflection.metadata/index.json
+  GET https://api.nuget.org/v3-flatcontainer/nuget.frameworks/index.json
+  OK https://api.nuget.org/v3-flatcontainer/teamcity.servicemessages/index.json 34ms
+  GET https://api.nuget.org/v3-flatcontainer/ioc.container/1.3.4/ioc.container.1.3.4.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/teamcity.servicemessages/3.0.13/teamcity.servicemessages.3.0.13.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/nuget.frameworks/index.json 21ms
+  OK https://api.nuget.org/v3-flatcontainer/teamcity.servicemessages/3.0.13/teamcity.servicemessages.3.0.13.nupkg 20ms
+  OK https://api.nuget.org/v3-flatcontainer/ioc.container/1.3.4/ioc.container.1.3.4.nupkg 25ms
+  OK https://api.nuget.org/v3-flatcontainer/system.reflection.metadata/index.json 28ms
+  GET https://api.nuget.org/v3-flatcontainer/nuget.frameworks/5.0.0/nuget.frameworks.5.0.0.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/nuget.frameworks/5.0.0/nuget.frameworks.5.0.0.nupkg 14ms
+  OK https://api.nuget.org/v3-flatcontainer/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg 19ms
+Installed Microsoft.Owin.Security 2.1.0 from https://api.nuget.org/v3/index.json with content hash 4n1V0p+O6W1L0xHUM8Cjp2Y+MmmUkiCZv6PvRNIDCJD9zlerBJa2HECo9lUiWC+KuasQJ3QxB1FmipNBxdXXIQ==.
+Installed Microsoft.Owin 2.1.0 from https://api.nuget.org/v3/index.json with content hash lk0kK64mlmcmtWX8YOYkZsnZKDoGEzMZhe8e1bcP+FFcgD4f2QfKwvu5Z8Bh8WS0VO7Rgk+DJ0hwW0k+S/UGMg==.
+Installed ExcelDataReader 3.4.0 from https://api.nuget.org/v3/index.json with content hash sBDS0csMdok65kEttJbhx2Uu2l8PEEO0SqmuPfPWBMgrM5f9+XyC0C8knkrUcEHAX8jEr11TXWsUfyqZu0NZ5g==.
+Installed NUnit3TestAdapter 3.13.0 from https://api.nuget.org/v3/index.json with content hash 9OlA81APTyR/tNkapK2a2dlz4jFra7/Bm1eYT1P1lIq2cJv4OYtWD5uHj3XsO1dz3btiwbIFrWBtZNr/ebRhSw==.
+Installed TeamCity.ServiceMessages 3.0.13 from https://api.nuget.org/v3/index.json with content hash YXIDS9mkyQvxfsdkTD7PG3kLGnI5MIctqLsIjotGie8f6Ky5bumxKnCkbr8VOagHn47H8myCRpLyhsMOvlSU+Q==.
+Installed CsvHelper 7.1.0 from https://api.nuget.org/v3/index.json with content hash H9+MtVj4P6oXaV/ODdYYFA20LFeIfIY77xL+nfFaPIzZy5YdbezzLvUPWX6Lm3BU/pzqXZCgzxO8vLh6+wCQWA==.
+Installed Microsoft.NET.Test.Sdk 15.9.0 from https://api.nuget.org/v3/index.json with content hash sGDhl1lTcyC4nbMA6vta+nADm50IEGnm9SW9+JNaie1zjtSmUdOPHu02+WK2SJND+3vbr9DWvgfi9qlSPfUAyw==.
+Installed NuGet.Frameworks 5.0.0+42a8779499c1d1ed2488c2e6b9e2ee6ff6107766 from https://api.nuget.org/v3/index.json with content hash c5JVjuVAm4f7E9Vj+v09Z9s2ZsqFDjBpcsyS3M9xRo0bEdm/LVZSzLxxNvfvAwRiiE8nwe1h2G4OwiwlzFKXlA==.
+Installed EPPlus 4.5.2.1 from https://api.nuget.org/v3/index.json with content hash /OzYn/n982Ozu+ARWISjn9REIb3PA5KN8qPfp3JKOoSnBezN3loGCQ2k0nLNL5K8+b+3boinsNiRbm5ovEfeog==.
+Installed Moq 4.1.1309.1617 from https://api.nuget.org/v3/index.json with content hash ADJISA8aTk17VKncwCjRUehxKdAowXYCEoK6QL9kDTj+jEmpo/2aDD2aBPzoVOSVhv58kYKU3UImbp6y3r5+EQ==.
+Installed System.Runtime.Caching 4.6.0 from https://api.nuget.org/v3/index.json with content hash YNctvODRmws3AOuXjk/+Hl1XfrSt0hFvYGBVmT43lw8iCJKb/HRFByPMnOJf65o2RJWg8CCtdsyh2Oxu+8FYXw==.
+NU1101: Unable to find package Pleasant.DB. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+NU1101: Unable to find package Pleasant.Identity. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+NU1101: Unable to find package PleasantModeller.Support. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+NU1101: Unable to find package Pleasant.DB.DeprecatedDataScope. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+NU1101: Unable to find package Pleasant.Templating. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+NU1101: Unable to find package Pleasant.Help. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+NU1101: Unable to find package Pleasant.Regional. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+Installed TeamCity.VSTest.TestAdapter 1.0.25 from https://api.nuget.org/v3/index.json with content hash 0kfWbiiY1TfndfgMJf0E8+M1diAPyYliH2SzRT8kiKmKyQdbTghgx9HZY3/mXlUBw5J9FOSAcy6XIT5aCiWlww==.
+Committing restore...
+Generating MSBuild file C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\RxNet.Business\obj\RxNet.Business.csproj.nuget.g.props.
+Generating MSBuild file C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\RxNet.Business\obj\RxNet.Business.csproj.nuget.g.targets.
+Writing assets file to disk. Path: C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\RxNet.Business\obj\project.assets.json
+Installed System.Reflection.Metadata 1.6.0 from https://api.nuget.org/v3/index.json with content hash COC1aiAJjCoA5GBF+QKL2uLqEBew4JsCkQmoHKbN3TlOZKa2fKLz5CpiRQKDz0RsAOEGsVKqOD5bomsXq/4STQ==.
+Failed to restore C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\RxNet.Business\RxNet.Business.csproj (in 2.24 sec).
+Installed IoC.Container 1.3.4 from https://api.nuget.org/v3/index.json with content hash HPcNKs/Etohl/Sh8uxvBR6liVqlos0JBUW0nMaDwsIwwvOdelfiLrMhbrnuM/SeUCTECwr18BzOVQnRqAmmTXg==.
+Installed Microsoft.CodeCoverage 15.9.0 from https://api.nuget.org/v3/index.json with content hash oherNadUtHKqFQbtdRKXgPvZVWyGkOeS83pFWT864587npS7JIFWIJ/LJV0c25cWNkCytn2S9XGSSkKscnNFAQ==.
+Installed Microsoft.TestPlatform.ObjectModel 16.9.4 from https://api.nuget.org/v3/index.json with content hash t43y1MZYshZFfc/g8nzy4o86PW2WfFcoQ+MjgYUlfj1pptKHc7Xr+R6sFBODA+y1I+Mc+Ujzme/c2cGX2AuOwQ==.
+NU1101: Unable to find package Pleasant.DB. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+NU1101: Unable to find package Pleasant.Identity. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+NU1101: Unable to find package PleasantModeller.Support. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+NU1101: Unable to find package Pleasant.DB.DeprecatedDataScope. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+NU1101: Unable to find package Pleasant.Templating. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+NU1101: Unable to find package Pleasant.Help. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+NU1101: Unable to find package Pleasant.Regional. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+Committing restore...
+Generating MSBuild file C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\RxNet.Tests\obj\RxNet.Tests.csproj.nuget.g.props.
+Generating MSBuild file C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\RxNet.Tests\obj\RxNet.Tests.csproj.nuget.g.targets.
+Writing assets file to disk. Path: C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\RxNet.Tests\obj\project.assets.json
+Failed to restore C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\RxNet.Tests\RxNet.Tests.csproj (in 4.38 sec).
+
+Errors in packages.config projects
+    Unable to find version '1.0.13.21' of package 'Obtics'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Obtics.1.0.13.21' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Obtics.1.0.13.21' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '9.1.1' of package 'Pleasant'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.9.1.1' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.9.1.1' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '5.1.3' of package 'Pleasant.Autofac'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Autofac.5.1.3' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Autofac.5.1.3' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '5.0.0' of package 'Pleasant.Autofac.Mvc'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Autofac.Mvc.5.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Autofac.Mvc.5.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '12.2.0' of package 'Pleasant.DB'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.DB.12.2.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.DB.12.2.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '12.2.0' of package 'Pleasant.DB.DeprecatedDataScope'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.DB.DeprecatedDataScope.12.2.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.DB.DeprecatedDataScope.12.2.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '9.0.0' of package 'Pleasant.EntityModel'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.EntityModel.9.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.EntityModel.9.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '2.0.1-pre0001' of package 'Pleasant.Help'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Help.2.0.1-pre0001' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Help.2.0.1-pre0001' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '1.0.0-pre0006' of package 'Pleasant.Help.Mvc'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Help.Mvc.1.0.0-pre0006' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Help.Mvc.1.0.0-pre0006' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '1.0.0-pre0006' of package 'Pleasant.Help.Mvc.Views.Bootstrap3'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Help.Mvc.Views.Bootstrap3.1.0.0-pre0006' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Help.Mvc.Views.Bootstrap3.1.0.0-pre0006' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '16.0.0' of package 'Pleasant.Identity'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Identity.16.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Identity.16.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '16.0.0' of package 'Pleasant.Identity.Mvc'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Identity.Mvc.16.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Identity.Mvc.16.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '5.0.0' of package 'Pleasant.Identity.Mvc.Template.Bootstrap3'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Identity.Mvc.Template.Bootstrap3.5.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Identity.Mvc.Template.Bootstrap3.5.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '16.0.0' of package 'Pleasant.Identity.Mvc.Views.Bootstrap3'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Identity.Mvc.Views.Bootstrap3.16.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Identity.Mvc.Views.Bootstrap3.16.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '16.0.0' of package 'Pleasant.Identity.Owin'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Identity.Owin.16.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Identity.Owin.16.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '2018.3.911.5451' of package 'Pleasant.Kendo'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Kendo.2018.3.911.5451' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Kendo.2018.3.911.5451' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '9.0.0' of package 'Pleasant.Net.Mail'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Net.Mail.9.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Net.Mail.9.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '2018.3.911.5451' of package 'Pleasant.Kendo.Mvc'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Kendo.Mvc.2018.3.911.5451' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Kendo.Mvc.2018.3.911.5451' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '4.0.0' of package 'Pleasant.Numeric.Measures'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Numeric.Measures.4.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Numeric.Measures.4.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '4.0.0' of package 'Pleasant.Numeric.Measures.Database'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Numeric.Measures.Database.4.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Numeric.Measures.Database.4.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '8.0.0' of package 'Pleasant.Processing'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Processing.8.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Processing.8.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '2.0.0' of package 'Pleasant.Owin'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Owin.2.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Owin.2.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '7.0.0' of package 'Pleasant.Regional'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Regional.7.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Regional.7.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '7.0.0' of package 'Pleasant.Templating.Email'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Templating.Email.7.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Templating.Email.7.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '7.0.0' of package 'Pleasant.Templating'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Templating.7.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Templating.7.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '6.1.0' of package 'Pleasant.Regional.Mvc'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Regional.Mvc.6.1.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Regional.Mvc.6.1.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '5.0.0' of package 'Pleasant.Web'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Web.5.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Web.5.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '3.0.0' of package 'Pleasant.VirtualFileSystem'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.VirtualFileSystem.3.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.VirtualFileSystem.3.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '17.0.0' of package 'Pleasant.Web.Mvc'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Web.Mvc.17.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Web.Mvc.17.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '17.0.0' of package 'Pleasant.Web.Mvc.Views.Bootstrap3'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Web.Mvc.Views.Bootstrap3.17.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Web.Mvc.Views.Bootstrap3.17.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '5.0.0' of package 'Pleasant.Web.Mvc.Template.Bootstrap3'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Web.Mvc.Template.Bootstrap3.5.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Web.Mvc.Template.Bootstrap3.5.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '17.0.0' of package 'Pleasant.Web.Mvc.Views'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'Pleasant.Web.Mvc.Views.17.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'Pleasant.Web.Mvc.Views.17.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '4.0.2' of package 'PleasantModeller.Support'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'PleasantModeller.Support.4.0.2' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'PleasantModeller.Support.4.0.2' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '3.0.0' of package 'PleasantModeller.Support.Wpf'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'PleasantModeller.Support.Wpf.3.0.0' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'PleasantModeller.Support.Wpf.3.0.0' is not found on source 'https://api.nuget.org/v3/index.json'.
+    Unable to find version '3.6.63896' of package 'QuickGraph'.
+      C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\: Package 'QuickGraph.3.6.63896' is not found on source 'C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\'.
+      https://api.nuget.org/v3/index.json: Package 'QuickGraph.3.6.63896' is not found on source 'https://api.nuget.org/v3/index.json'.
+
+Errors in C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\RxNet.Business\RxNet.Business.csproj
+    NU1101: Unable to find package Pleasant.DB. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+    NU1101: Unable to find package Pleasant.Identity. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+    NU1101: Unable to find package PleasantModeller.Support. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+    NU1101: Unable to find package Pleasant.DB.DeprecatedDataScope. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+    NU1101: Unable to find package Pleasant.Templating. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+    NU1101: Unable to find package Pleasant.Help. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+    NU1101: Unable to find package Pleasant.Regional. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+
+Errors in C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\RxNet.Tests\RxNet.Tests.csproj
+    NU1101: Unable to find package Pleasant.DB. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+    NU1101: Unable to find package Pleasant.Identity. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+    NU1101: Unable to find package PleasantModeller.Support. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+    NU1101: Unable to find package Pleasant.DB.DeprecatedDataScope. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+    NU1101: Unable to find package Pleasant.Templating. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+    NU1101: Unable to find package Pleasant.Help. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+    NU1101: Unable to find package Pleasant.Regional. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org
+
+NuGet Config files used:
+    C:\Windows\system32\config\systemprofile\AppData\Roaming\NuGet\NuGet.Config
+    C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.Offline.config
+
+Feeds used:
+    https://api.nuget.org/v3/index.json
+    C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\
+
+Installed:
+    94 package(s) to packages.config projects
+    6 package(s) to C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\RxNet.Business\RxNet.Business.csproj
+    16 package(s) to C:\Users\falam\Downloads\profitmax-Master@077aac73d32\Source\RxNet.Tests\RxNet.Tests.csproj
+
+C:\Windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\PMax>exit 1 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE
